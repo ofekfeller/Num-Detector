@@ -51,7 +51,8 @@ def ent(event):
     #check=check.reshape((784,1)) 
     #print(np.argmax(net.feedforward(check)))
     
-    
+# just added this comment to try branching 
+
 #train,val,dump=mnist_loader.load_data_wrapper()
 #net=network.Network([784,100,10])
 #net.SGD(train,30,10,0.5,lmbda=5,evaluation_data=val)
